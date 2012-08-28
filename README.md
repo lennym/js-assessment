@@ -1,3 +1,8 @@
+These are my answers to @rmurphey's js-assessment. I don't claim they're perfect, or even good, but the tests pass so what the hell ;-)
+
+I cheated on one.
+
+
 # A test-driven JS assessment
 
 This repo includes a set of tests that can be used to assess the skills of
